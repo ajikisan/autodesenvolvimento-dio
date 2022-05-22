@@ -3,7 +3,7 @@
 
 Um dos maiores inimigos de quem quer avançar na sua carreira é a zona de conforto.
 
-Por este motivo para eu continuar mantendo a excelência e a qualidade do trabalho desafio-me a buscar novas maneiras de acompanhar as inovações tecnológicas. 
+Por este motivo para eu continuar mantendo a excelência e a qualidade do trabalho. Desafio-me a buscar novas maneiras de acompanhar as inovações tecnológicas. 
 
 Aqui você pode acompanhar minha capacitação profissional através das certificações realizadas na DIO - Digital Innovation One 
 
@@ -64,4 +64,38 @@ Coloco-me à disposição para o que for necessário
 | 22/12/21 19:29 	| 2FF41D19    	| Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot 	| 5 horas       	|
 | 23/12/21 09:33 	| 59965541    	| TQI Java Developer                                                                           	| 125 horas     	|
 | 24/12/21 20:21 	| 02C22EB1    	| Projetos ágeis com SCRUM                                                                     	| 2 horas       	|
+| 27/12/21 22:10 	| 38A929EE    	| Certificado Primeiros Passos Para Começar a ProgramaProjetos ágeis com SCRUM                  | 4 horas       	|
+| 28/10/21 20:40 	| FFDd67D0    	| Desmistificando o Android Studio na prática                                                   | 1 hora        	|
+| 04/01/22 00:00 	| FAC397F4    	| Introdução ao Kotlin                                                                          | 6 horas        	|
+| 03/01/22 20:15 	| 81259DC3    	| Boas-vindas ao Bootcamp Cognizant Java Developer                                              | 1 hora        	|
+| 04/01/22 20:55 	| 821CA4B8    	| Entendendo Java                                                                               | 6 horas       	|
+| 07/01/22 21:55 	| 7B080AAD    	| Estruturas de Dados em Java: Introdução                                                       | 2 horas       	|
+| 09/01/22 21:55 	| 474CB545    	| Estruturas de Dados em Java: Pilhas e Filas                                                   | 2 horas       	|
+| 07/01/22 20:35 	| 05786979    	| Estruturas de Dados em Java: Listas                                                           | 3 horas       	|
+| 15/01/22 20:12 	| 8F8A0014    	| Estruturas de Dados em Java: Principais Implementações                                        | 1 hora        	|
+| 17/01/22 21:55 	| 0AD26AC5    	| Debugging Java                                                                                | 1 hora        	|
+| 22/01/22 20:31 	| 97774841    	| Tratamento de Exceções em Java                                                                | 2 horas        	|
+| 10/03/22 20:31 	| D00CDE21    	| Trabalhando com Collections Java                                                              | 6 horas        	|
+| 13/03/22 21:24 	| 9231EF65    	| Introdução a microsserviços                                                                   | 2 horas        	|
+| 15/03/22 19:28 	| 03A0368E    	| Aprenda a aplicar testes com Java                                                             | 2 horas        	|
+| 15/03/22 21:37 	| 2A121BA0    	| SQL Server – Criando suas primeiras consultas                                                 | 4 horas        	|
+| 16/03/22 19:52 	| 275794F5    	| Modelando um banco de dados na prática com SQL SERVER                                         | 2 horas        	|
+| 17/03/22 19:52 	| 16A267DA    	| SQL Server Boas Práticas em Bancos Relacionais                                                | 2 horas        	|
+| 27/03/22 21:25 	| 06CDB77A    	| Introdução a APIS e métodos HTTP                                                              | 2 horas        	|
+| 14/04/22 20:16 	| 8EA747AE    	| Criando API Gateways no ambiente Azure Spring Cloud                                           | 6 horas        	|
+| 18/04/22 19:57 	| 962D1910    	| Boas-vindas ao Bootcamp GFT Start Woman Java                                                  | 1 hora        	|
+| 03/05/22 20:50 	| AED6CCE8    	| Programação Orientada a Objetos                                                               | 4 horas        	|
+| 16/05/22 20:47 	| 93991A76    	| Criando um Banco Digital com Java e Orientação a Objetos                                      | 2 horas        	|
+| 19/05/22 20:38 	| DA9DDFC7    	| Introdução ao HTTP / HTTPS                                                                    | 3 horas        	|
+
+
+
+
+
+
+
+
+
+
+
 
