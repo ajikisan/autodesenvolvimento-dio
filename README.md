@@ -87,7 +87,8 @@ Coloco-me à disposição para o que for necessário
 | 03/05/22 20:50 	| AED6CCE8    	| Programação Orientada a Objetos                                                               | 4 horas        	|
 | 16/05/22 20:47 	| 93991A76    	| Criando um Banco Digital com Java e Orientação a Objetos                                      | 2 horas        	|
 | 19/05/22 20:38 	| DA9DDFC7    	| Introdução ao HTTP / HTTPS                                                                    | 3 horas        	|
-
+| 22/05/22 23:45 	| 903721E8    	| Explorando Padrões de Projetos na Prática com Java                                            | 2 horas        	|
+| 23/05/22 00:06 	| 4E1E897E    	| GFT Start Woman Java                                                                          | 55 horas       	|
 
 
 
