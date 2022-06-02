@@ -89,8 +89,9 @@ Coloco-me à disposição para o que for necessário
 | 19/05/22 20:38 	| DA9DDFC7    	| Introdução ao HTTP / HTTPS                                                                    | 3 horas        	|
 | 22/05/22 23:45 	| 903721E8    	| Explorando Padrões de Projetos na Prática com Java                                            | 2 horas        	|
 | 23/05/22 00:06 	| 4E1E897E    	| GFT Start Woman Java                                                                          | 55 horas       	|
-
-
+| 31/05/22 19:51 	| F7AB9230    	| Conheça as Oportunidades da DIO                                                               | 1 hora        	|
+| 31/05/22 20:47 	| D453F930    	| Seja Protagonista Neste Bootcamp                                                              | 1 hora        	|
+| 01/06/22 20:25 	| 623C2C6B    	| Boas-vindas ao Santander Bootcamp Fullstack Developer                                         | 1 hora        	|
 
 
 
