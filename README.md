@@ -93,7 +93,7 @@ Coloco-me à disposição para o que for necessário
 | 31/05/22 20:47 	| D453F930    	| Seja Protagonista Neste Bootcamp                                                              | 1 hora        	|
 | 01/06/22 20:25 	| 623C2C6B    	| Boas-vindas ao Santander Bootcamp Fullstack Developer                                         | 1 hora        	|
 | 16/06/22 10:20 	| 7CB58507    	| Posicionando elementos com Flexbox com CSS                                                    | 4 horas        	|
-
+| 17/06/22 22:00 	| B375A60A    	| Recriando a página inicial do Instagram                                                       | 2 horas        	|
 
 
 
