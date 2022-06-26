@@ -96,7 +96,8 @@ Coloco-me à disposição para o que for necessário
 | 17/06/22 22:00 	| B375A60A    	| Recriando a página inicial do Instagram                                                       | 2 horas        	|
 | 19/06/22 23:24 	| 255B41B8    	| Introdução ao JavaScript                                                                      | 3 horas        	|
 | 20/06/22 20:40 	| 7744BBEE    	| JavaScript Sintaxe e Operadores                                                               | 2 horas        	|
-
+| 25/06/22 21:18 	| 3BD1B0E2    	| JavaScript Variávies e Tipos                                                                  | 3 horas        	|
+| 25/06/22 23:20 	| 1E3E866E    	| JavaScript Funções                                                                            | 1 hora        	|
 
 
 
