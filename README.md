@@ -99,6 +99,6 @@ Coloco-me à disposição para o que for necessário
 | 25/06/22 21:18 	| 3BD1B0E2    	| JavaScript Variávies e Tipos                                                                  | 3 horas        	|
 | 25/06/22 23:20 	| 1E3E866E    	| JavaScript Funções                                                                            | 1 hora        	|
 | 26/06/22 20:30 	| 0B88EB80    	| JavaScript Coleções                                                                           | 1 hora        	|
-
+| 28/06/22 21:41 	| 53B41B7C    	| JavaScript Métodos Map, Filter e Reduce                                                       | 2 horas        	|
 
 
