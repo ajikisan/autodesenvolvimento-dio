@@ -101,4 +101,7 @@ Coloco-me à disposição para o que for necessário
 | 26/06/22 20:30 	| 0B88EB80    	| JavaScript Coleções                                                                           | 1 hora        	|
 | 28/06/22 21:41 	| 53B41B7C    	| JavaScript Métodos Map, Filter e Reduce                                                       | 2 horas        	|
 | 29/06/22 21:40 	| 014327CE    	| JavaScript Debugging e Error Handling                                                         | 2 horas        	|
-| 02/07/22 21:40 	| 2B640DE6    	| JavaScript Assíncrono                                                                         | 1 hora        	|
+| 01/07/22 20:09 	| 2B640DE6    	| JavaScript Assíncrono                                                                         | 1 hora        	|
+| 05/07/22 22:54 	| 9B94EFBE    	| JavaScript Orientação a Objetos                                                               | 1 hora        	|
+| 10/07/22 00:24 	|             	| Abstraindo um Bootcamp Usando Orientação a Objetos em Java                                    | 1 hora        	|
+| 10/07/22 22:30 	| 5A0B9444    	| Conhecendo os Principais Protocolos de Comunicação da Internet                                | 3 horas        	|
