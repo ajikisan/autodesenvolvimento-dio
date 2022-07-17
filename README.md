@@ -107,4 +107,10 @@ Coloco-me à disposição para o que for necessário
 | 10/07/22 22:21  | 5A0B9444    	| Conhecendo os Principais Protocolos de Comunicação da Internet                                | 3 horas        	|
 | 13/07/22 15:13 	| BA8BB3D3    	| Introdução a Programação e Pensamento Computacional                                           | 5 horas        	|
 | 13/07/22 15:13 	| 380EE9D5    	| Gerenciamento de Dependências e Build em Java com Maven                                       | 3 horas        	|
-| 13/07/22 21:43 	| 406AD2CD    	| Introdução ao Spring Framework                                                                | 3 horas        	|
+| 13/07/22 21:43 	| D81FE7E6    	| Introdução ao Spring Framework                                                                | 3 horas        	|
+| 16/07/22 21:19 	| 406AD2CD    	| Santander Code Girls Aula Inaugural                                                           | 2 horas        	|
+| 16/07/22 21:25 	| 83A0CC62    	| Introdução a Criação de Websites com HTML5 e CSS3                                             | 6 horas        	|
+| 16/07/22 21:25 	| ED02BC69    	| Santander Code Girls                                                                          | 62 horas        	|
+
+
+
