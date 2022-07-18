@@ -9,7 +9,7 @@ Aqui você pode acompanhar minha capacitação profissional através das certifi
 
 Coloco-me à disposição para o que for necessário 
 
-[Linkedin](www.linkedin.com/in/mirian-ajiki-molicawa-a770902b)
+[Linkedin](www.linkedin.com/in/mirian-ajiki-molicawa)
 
 
 | Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
@@ -110,7 +110,8 @@ Coloco-me à disposição para o que for necessário
 | 13/07/22 21:43 	| D81FE7E6    	| Introdução ao Spring Framework                                                                | 3 horas        	|
 | 16/07/22 21:19 	| 406AD2CD    	| Santander Code Girls Aula Inaugural                                                           | 2 horas        	|
 | 16/07/22 21:25 	| 83A0CC62    	| Introdução a Criação de Websites com HTML5 e CSS3                                             | 6 horas        	|
-| 16/07/22 21:25 	| ED02BC69    	| Santander Code Girls                                                                          | 62 horas        	|
+| 16/07/22 21:25 	| ED02BC69    	| Santander Code Girls                                                                          | 62 horas       	|
+| 17/07/22 21:25 	| 23C2488A    	| Trabalhando com Módulos em JavaScript                                                         | 1 hora        	|
 
 
 
