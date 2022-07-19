@@ -9,7 +9,7 @@ Aqui você pode acompanhar minha capacitação profissional através das certifi
 
 Coloco-me à disposição para o que for necessário 
 
-[Linkedin]([www.linkedin.com/in/mirian-ajiki-molicawa-a770902b])
+[Linkedin]([www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/])
 
 
 | Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
