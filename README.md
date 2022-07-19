@@ -112,6 +112,6 @@ Coloco-me à disposição para o que for necessário
 | 16/07/22 21:25 	| 83A0CC62    	| Introdução a Criação de Websites com HTML5 e CSS3                                             | 6 horas        	|
 | 16/07/22 21:25 	| ED02BC69    	| Santander Code Girls                                                                          | 62 horas       	|
 | 17/07/22 21:25 	| 23C2488A    	| Trabalhando com Módulos em JavaScript                                                         | 1 hora        	|
-
+| 18/07/22 20:48 	| 9BCD2FE8    	| Manipulando a D.O.M com JavaScript                                                            | 1 hora        	|
 
 
