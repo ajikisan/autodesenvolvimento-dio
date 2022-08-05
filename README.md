@@ -113,5 +113,7 @@ Coloco-me à disposição para o que for necessário
 | 16/07/22 21:25 	| ED02BC69    	| Santander Code Girls                                                                          | 62 horas       	|
 | 17/07/22 21:25 	| 23C2488A    	| Trabalhando com Módulos em JavaScript                                                         | 1 hora        	|
 | 18/07/22 20:48 	| 9BCD2FE8    	| Manipulando a D.O.M com JavaScript                                                            | 1 hora        	|
+| 29/07/22 23:04 	| A87DFB78    	| Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces                              | 2 horas        	|
+| 04/08/22 21:54 	| 34A37FBD    	| Introdução Prática ao TypeScript                                                              | 2 horas        	|
 
 
