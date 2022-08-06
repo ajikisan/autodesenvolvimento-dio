@@ -5,11 +5,11 @@ Um dos maiores inimigos de quem quer avançar na sua carreira é a zona de confo
 
 Por este motivo para eu continuar mantendo a excelência e a qualidade do trabalho. Desafio-me a buscar novas maneiras de acompanhar as inovações tecnológicas. 
 
-Aqui você pode acompanhar minha capacitação profissional através das certificações realizadas na DIO - Digital Innovation One 
+Aqui você pode acompanhar minha capacitação profissional através das certificações realizadas na [DIO](https://web.dio.me/home) - Digital Innovation One 
 
 Coloco-me à disposição para o que for necessário 
 
-[Linkedin] :([https://www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/])
+[Linkedin](https://www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/)
 
 
 | Data           	| Certificado 	| Curso                                                                                        	| Carga Horária 	|
