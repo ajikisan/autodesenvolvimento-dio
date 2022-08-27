@@ -116,4 +116,5 @@ Coloco-me à disposição para o que for necessário
 | 29/07/22 23:04 	| A87DFB78    	| Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces                              | 2 horas        	|
 | 04/08/22 21:54 	| 34A37FBD    	| Introdução Prática ao TypeScript                                                              | 2 horas        	|
 | 12/08/22 20:46 	| 5BE95E50    	| Imersão no Spring Framework com Spring Boot                                                   | 3 horas        	|
+| 26/08/22 21:20 	| 7FC70E5B    	| Introdução ao Microsoft Power BI                                                              | 2 horas        	|
 
