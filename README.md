@@ -119,5 +119,5 @@ Coloco-me à disposição para o que for necessário
 | 26/08/22 21:20 	| 7FC70E5B    	| Introdução ao Microsoft Power BI                                                              | 2 horas        	|
 | 27/08/22 20:42 	| 40BA66AF    	| Introdução ao Desenvolvimento Moderno de Software                                             | 1 hora        	|
 | 27/08/22 21:33 	| A05B1F4F    	| Database Experience Aula Inaugural                                                            | 1 hora        	|
-| 27/08/22 20:47 	| A188422B    	| contextualização do Cenário na Área de Banco de Dados                                         | 3 horas        	|
-
+| 28/08/22 20:18 	| A188422B    	| Contextualização do Cenário na Área de Banco de Dados                                         | 3 horas        	|
+| 07/09/22 22:22 	| AF04D375    	| Explorando a Abordagem de SGDBs                                                               | 2 horas        	|
