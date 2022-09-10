@@ -121,4 +121,6 @@ Coloco-me à disposição para o que for necessário
 | 27/08/22 21:33 	| A05B1F4F    	| Database Experience Aula Inaugural                                                            | 1 hora        	|
 | 28/08/22 20:18 	| A188422B    	| Contextualização do Cenário na Área de Banco de Dados                                         | 3 horas        	|
 | 07/09/22 22:22 	| AF04D375    	| Explorando a Abordagem de SGDBs                                                               | 2 horas        	|
-| 08/09/22 22:35 	| A747E34B    	| Overview sobre Modelagem de Dados                                                             | 2 horas        	|
+| 08/09/22 22:35 	| A747E34B    	| Arquitetura de Banco de Dados                                                                 | 2 horas        	|
+| 09/09/22 20:34 	| D698F1B8    	| Overview sobre Modelagem de Dados                                                             | 2 horas        	|
+| 09/09/22 22:23 	| F231DFD4    	| Fundamentos da Modelagem e Projeto de Banco de Dados                                          | 3 horas        	|
