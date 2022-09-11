@@ -124,3 +124,4 @@ Coloco-me à disposição para o que for necessário
 | 08/09/22 22:35 	| A747E34B    	| Arquitetura de Banco de Dados                                                                 | 2 horas        	|
 | 09/09/22 20:34 	| D698F1B8    	| Overview sobre Modelagem de Dados                                                             | 2 horas        	|
 | 09/09/22 22:23 	| F231DFD4    	| Fundamentos da Modelagem e Projeto de Banco de Dados                                          | 3 horas        	|
+| 10/09/22 21:38 	| 561A92AE    	| Explorando o Modelo ER Entidade Relacionamento                                                | 2 horas        	|
