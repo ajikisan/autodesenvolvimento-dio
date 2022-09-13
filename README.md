@@ -125,4 +125,4 @@ Coloco-me à disposição para o que for necessário
 | 09/09/22 20:34 	| D698F1B8    	| Overview sobre Modelagem de Dados                                                             | 2 horas        	|
 | 09/09/22 22:23 	| F231DFD4    	| Fundamentos da Modelagem e Projeto de Banco de Dados                                          | 3 horas        	|
 | 10/09/22 21:38 	| 561A92AE    	| Explorando o Modelo ER Entidade Relacionamento                                                | 2 horas        	|
-| 12/09/22 21:16 	| 72641598    	| Modelagem de Dados com EER Enhanced Eniity Relationship                                       | 2 horas        	|
+| 12/09/22 21:16 	| 72641598    	| Modelagem de Dados com EER Enhanced Entity  Relationship                                       | 2 horas        	|
