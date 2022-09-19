@@ -127,3 +127,4 @@ Coloco-me à disposição para o que for necessário
 | 10/09/22 21:38 	| 561A92AE    	| Explorando o Modelo ER Entidade Relacionamento                                                | 2 horas        	|
 | 12/09/22 21:16 	| 72641598    	| Modelagem de Dados com EER Enhanced Entity  Relationship                                      | 2 horas        	|
 | 16/09/22 23:45 	| 9F41266B    	| Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE                                | 3 horas        	|
+| 18/09/22 22:20 	| 64B2CD9A    	| Construindo um Esquema Conceitual para Banco De dados - Oficina Mecânica                      | 1 hora         	|
