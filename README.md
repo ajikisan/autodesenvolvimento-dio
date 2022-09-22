@@ -129,3 +129,4 @@ Coloco-me à disposição para o que for necessário
 | 16/09/22 23:45 	| 9F41266B    	| Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE                                | 3 horas        	|
 | 18/09/22 22:20 	| 64B2CD9A    	| Construindo um Esquema Conceitual para Banco De dados - Oficina Mecânica                      | 1 hora         	|
 | 19/09/22 21:25 	| 2AAB59CB    	| Modelo Relacional e Mapeamento Relacional com Banco de Dados                                  | 3 horas        	|
+| 21/09/22 21:18 	| E478B0D9    	| Primeiros Passos com SQL                                                                      | 4 horas        	|
