@@ -131,3 +131,4 @@ Coloco-me à disposição para o que for necessário
 | 19/09/22 21:25 	| 2AAB59CB    	| Modelo Relacional e Mapeamento Relacional com Banco de Dados                                  | 3 horas        	|
 | 21/09/22 21:18 	| E478B0D9    	| Primeiros Passos com SQL                                                                      | 4 horas        	|
 | 22/09/22 21:25 	| B498D709    	| Explorando Queries com SQL                                                                    | 3 horas        	|
+| 23/09/22 20:59 	| 132D65EE    	| Criando Queries com Funções e Cláusulas de Agrupamentos                                       | 3 horas        	|
