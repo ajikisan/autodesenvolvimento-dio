@@ -132,3 +132,9 @@ Coloco-me à disposição para o que for necessário
 | 21/09/22 21:18 	| E478B0D9    	| Primeiros Passos com SQL                                                                      | 4 horas        	|
 | 22/09/22 21:25 	| B498D709    	| Explorando Queries com SQL                                                                    | 3 horas        	|
 | 23/09/22 20:59 	| 132D65EE    	| Criando Queries com Funções e Cláusulas de Agrupamentos                                       | 3 horas        	|
+| 24/09/22 16:11 	| 0F22FDDC    	| Agrupando Registros e Tabelas com Join Statement                                              | 3 horas        	|
+| 25/09/22 20:48 	| 1E81A209    	| Construindo seu Primeiro Projeto Lógico de Banco de Dados                                     | 3 horas        	|
+| 25/09/22 21:35 	| 2AD9099C    	| Introdução ao MongoDB e Bancos de Dados NoSQL                                                 | 3 horas        	|
+| 25/09/22 22:42 	| 5130DA53    	| O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados                                | 1 hora        	|
+| 25/09/22 22:55 	| D2D83311    	| Construa um Projeto Lógico de Banco de Dados do Zero                                          | 1 hora        	|
+| 25/09/22 23:14 	| C593EADA    	| Database Experience                                                                           | 54 horas        	|
