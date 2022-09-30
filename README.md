@@ -137,4 +137,6 @@ Coloco-me à disposição para o que for necessário
 | 25/09/22 21:35 	| 2AD9099C    	| Introdução ao MongoDB e Bancos de Dados NoSQL                                                 | 3 horas        	|
 | 25/09/22 22:42 	| 5130DA53    	| O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados                                | 1 hora        	|
 | 25/09/22 22:55 	| D2D83311    	| Construa um Projeto Lógico de Banco de Dados do Zero                                          | 1 hora        	|
-| 25/09/22 23:14 	| C593EADA    	| Database Experience                                                                           | 54 horas        	|
+| 25/09/22 23:14 	| C593EADA    	| Database Experience                                                                           | 54 horas       	|
+| 29/09/22 21:45 	| E7400A1A    	| Boas-vindas ao Bootcamp: Geração Tech Unimed-BH - Ciência de dados                            | 1 hora       	  |
+
