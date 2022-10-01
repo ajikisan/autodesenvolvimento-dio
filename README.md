@@ -140,4 +140,5 @@ Coloco-me à disposição para o que for necessário
 | 25/09/22 23:14 	| C593EADA    	| Database Experience                                                                           | 54 horas       	|
 | 29/09/22 21:45 	| E7400A1A    	| Boas-vindas ao Bootcamp: Geração Tech Unimed-BH - Ciência de dados                            | 1 hora       	  |
 | 29/09/22 22:16 	| 0ACAB7D3    	| Como Entregar seu Desafio de Projeto                                                          | 1 hora       	  |
+| 30/09/22 20:25 	| 0835B002    	| Ambiente de Desenvolvimento e Primeiros Passos com Python                                     | 1 hora       	  |
 
