@@ -141,4 +141,5 @@ Coloco-me à disposição para o que for necessário
 | 29/09/22 21:45 	| E7400A1A    	| Boas-vindas ao Bootcamp: Geração Tech Unimed-BH - Ciência de dados                            | 1 hora       	  |
 | 29/09/22 22:16 	| 0ACAB7D3    	| Como Entregar seu Desafio de Projeto                                                          | 1 hora       	  |
 | 30/09/22 20:25 	| 0835B002    	| Ambiente de Desenvolvimento e Primeiros Passos com Python                                     | 1 hora       	  |
+| 01/10/22 21:44 	| 56229AEB    	| Conhecendo a Linguagem de Programação Python                                                  | 2 horas      	  |
 
