@@ -142,4 +142,5 @@ Coloco-me à disposição para o que for necessário
 | 29/09/22 22:16 	| 0ACAB7D3    	| Como Entregar seu Desafio de Projeto                                                          | 1 hora       	  |
 | 30/09/22 20:25 	| 0835B002    	| Ambiente de Desenvolvimento e Primeiros Passos com Python                                     | 1 hora       	  |
 | 01/10/22 21:44 	| 56229AEB    	| Conhecendo a Linguagem de Programação Python                                                  | 2 horas      	  |
+| 01/10/22 22:59 	| 30AB627F    	| Tipos de Operadores com Python                                                                | 2 horas      	  |
 
