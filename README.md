@@ -144,4 +144,5 @@ Coloco-me à disposição para o que for necessário
 | 01/10/22 21:44 	| 56229AEB    	| Conhecendo a Linguagem de Programação Python                                                  | 2 horas      	  |
 | 01/10/22 22:59 	| 30AB627F    	| Tipos de Operadores com Python                                                                | 2 horas      	  |
 | 02/10/22 21:18 	| 105C808E    	| Estruturas Condicionais e de Repetição em Python                                              | 2 horas      	  |
+| 02/10/22 22:50 	| 8DFF6FC7    	| Manipulação de strings com Python                                                             | 2 horas      	  |
 
