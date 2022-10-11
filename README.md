@@ -147,8 +147,9 @@ Coloco-me à disposição para o que for necessário
 | 02/10/22 22:50 	| 8DFF6FC7    	| Manipulação de strings com Python                                                             | 2 horas      	  |
 | 07/10/22 00:01 	| 91746B48    	| Análise de Dados Com Python e Pandas                                                          | 5 horas      	  |
 | 07/10/22 21:59 	| 631C9513    	| Trabalhando com Listas em Python                                                              | 2 horas      	  |
-| 09/09/22 14:30 	| E8AB900D    	| Aprendendo a Utilizar Dicionários em Python                                                   | 1 hora      	  |
-| 09/09/22 15:30 	| 295D8ECA    	| Explorando Conjuntos em Python                                                                | 1 hora      	  |
-| 09/09/22 16:31 	| 5EC7B082    	| Conhecendo Tuplas em Python                                                                   | 1 hora      	  |
-| 09/09/22 20:31 	| 5527F543    	| Dominando Funções Python                                                                      | 1 hora      	  |
-
+| 09/10/22 14:30 	| E8AB900D    	| Aprendendo a Utilizar Dicionários em Python                                                   | 1 hora      	  |
+| 09/10/22 15:30 	| 295D8ECA    	| Explorando Conjuntos em Python                                                                | 1 hora      	  |
+| 09/10/22 16:31 	| 5EC7B082    	| Conhecendo Tuplas em Python                                                                   | 1 hora      	  |
+| 09/10/22 20:31 	| 5527F543    	| Dominando Funções Python                                                                      | 1 hora      	  |
+| 10/10/22 20:15 	| F02FFFC9    	| Fundamentos de ETL (Extract, Transform, Load) com Python                                      | 2 horas      	  |
+| 10/10/22 22:02 	| 55DE70D4    	| Introdução à Programação Orientada a Objetos (POO) com Python                                 | 1 hora      	  |
