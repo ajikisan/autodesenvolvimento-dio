@@ -158,3 +158,5 @@ Coloco-me à disposição para o que for necessário
 | 11/10/22 22:07 	| E2AFE2CF    	| Conhecendo Polimorfismo em Python                                                             | 1 hora      	  |
 | 11/10/22 23:19 	| B656A4D4    	| Ampliando o conhecimento em POO com Python                                                    | 1 hora      	  |
 | 16/10/22 22:26 	| 6BA04F10    	| Descomplicando a criação de pacotes de processamento de imagens em Python                     | 2 horas      	  |
+| 19/10/22 21:45 	| 5D83DFBF    	| Primeiros Passos com AWS                                                                      | 2 horas      	  |
+
