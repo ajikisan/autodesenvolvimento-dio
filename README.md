@@ -160,4 +160,4 @@ Coloco-me à disposição para o que for necessário
 | 16/10/22 22:26 	| 6BA04F10    	| Descomplicando a criação de pacotes de processamento de imagens em Python                     | 2 horas      	  |
 | 19/10/22 21:45 	| 5D83DFBF    	| Primeiros Passos com AWS                                                                      | 2 horas      	  |
 | 22/10/22 21:45 	| 24EF6518    	| Boas Práticas com DynamoDB                                                                    | 2 horas      	  |
-
+| 25/10/22 20:45 	| A4606E79    	| Desenvolvendo Soluções Serverless na AWS                                                      | 4 horas      	  |
