@@ -162,3 +162,4 @@ Coloco-me à disposição para o que for necessário
 | 22/10/22 21:45 	| 24EF6518    	| Boas Práticas com DynamoDB                                                                    | 2 horas      	  |
 | 25/10/22 20:45 	| A4606E79    	| Desenvolvendo Soluções Serverless na AWS                                                      | 4 horas      	  |
 | 26/10/22 21:40 	| 8C8671ED    	| Introdução a Engenharia de Dados na AWS                                                       | 2 horas      	  |
+| 30/10/22 19:45 	| A404352B    	| Imersão ao Ecossistema Cloud Data AWS                                                         | 2 horas      	  |
