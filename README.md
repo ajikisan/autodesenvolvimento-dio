@@ -164,3 +164,4 @@ Coloco-me à disposição para o que for necessário
 | 26/10/22 21:40 	| 8C8671ED    	| Introdução a Engenharia de Dados na AWS                                                       | 2 horas      	  |
 | 30/10/22 19:45 	| A404352B    	| Imersão ao Ecossistema Cloud Data AWS                                                         | 2 horas      	  |
 | 30/10/22 21:44 	| 57BB62BE    	| Linguagens de Programação para Machine Learning                                               | 1 hora      	  |
+| 01/11/22 21:48 	| 8FED326C    	| Explorando Dados Demográficos com Serviços de Big Data na AWS                                 | 1 hora      	  |
