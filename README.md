@@ -167,3 +167,4 @@ Coloco-me à disposição para o que for necessário
 | 01/11/22 21:48 	| 8FED326C    	| Explorando Dados Demográficos com Serviços de Big Data na AWS                                 | 1 hora      	  |
 | 02/11/22 21:20 	| F049C99F    	| Python para Machine Learning                                                                  | 3 horas      	  |
 | 03/11/22 20:57 	| BD5F47FB    	| R para Machine Learning                                                                       | 2 horas      	  |
+| 04/11/22 20:52 	| 3C72F9D8    	| Entendendo Machine Learning com Amazon SageMaker                                              | 2 horas      	  |
