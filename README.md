@@ -168,3 +168,5 @@ Coloco-me à disposição para o que for necessário
 | 02/11/22 21:20 	| F049C99F    	| Python para Machine Learning                                                                  | 3 horas      	  |
 | 03/11/22 20:57 	| BD5F47FB    	| R para Machine Learning                                                                       | 2 horas      	  |
 | 04/11/22 20:52 	| 3C72F9D8    	| Entendendo Machine Learning com Amazon SageMaker                                              | 2 horas      	  |
+| 06/11/22 21:40 	| 25329EB7    	| Treinamento de Redes Neurais com Transfer Learning                                            | 2 horas      	  |
+| 06/11/22 21:42 	| B763286E    	| Geração Tech Unimed-BH - Ciência de Dados                                                     | 126 horas   	  |
