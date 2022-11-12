@@ -170,4 +170,5 @@ Coloco-me à disposição para o que for necessário
 | 04/11/22 20:52 	| 3C72F9D8    	| Entendendo Machine Learning com Amazon SageMaker                                              | 2 horas      	  |
 | 06/11/22 21:40 	| 25329EB7    	| Treinamento de Redes Neurais com Transfer Learning                                            | 2 horas      	  |
 | 06/11/22 21:42 	| B763286E    	| Geração Tech Unimed-BH - Ciência de Dados                                                     | 126 horas   	  |
-| 10/11/22 21:19 	| D33E1CB2    	| GFT Quality Assurance Para Mulheres                                                           | 2 horas   	  |
+| 10/11/22 21:19 	| D33E1CB2    	| GFT Quality Assurance Para Mulheres                                                           | 2 horas   	    |
+| 11/11/22 21:20 	| D2E45356    	| Introdução ao Mercado de Qualidade de Software                                                | 2 horas   	    |
