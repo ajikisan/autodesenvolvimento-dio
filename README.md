@@ -172,3 +172,4 @@ Coloco-me à disposição para o que for necessário
 | 06/11/22 21:42 	| B763286E    	| Geração Tech Unimed-BH - Ciência de Dados                                                     | 126 horas   	  |
 | 10/11/22 21:19 	| D33E1CB2    	| GFT Quality Assurance Para Mulheres                                                           | 2 horas   	    |
 | 11/11/22 21:20 	| D2E45356    	| Introdução ao Mercado de Qualidade de Software                                                | 2 horas   	    |
+| 12/11/22 22:11 	| 5DE3B01D    	| Fundamentos de Qualidade de Software                                                          | 3 horas   	    |
