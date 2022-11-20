@@ -175,3 +175,5 @@ Coloco-me à disposição para o que for necessário
 | 12/11/22 22:11 	| 5DE3B01D    	| Fundamentos de Qualidade de Software                                                          | 3 horas   	    |
 | 14/11/22 22:12 	| 320EA538    	| Metodologias Ágeis e Ciclo de Desenvolvimento de Software                                     | 3 horas   	    |
 | 15/11/22 21:23 	| 84B5504A    	| O Caminho Para a Certificação CTFL                                                            | 3 horas   	    |
+| 17/11/22 21:45 	| 96EA4A55    	| Introdução à Plataforma Java                                                                  | 1 hora   	      |
+| 19/11/22 20:52 	| 8B54D7E4    	| Ambiente de Desenvolvimento Java                                                              | 1 hora   	      |
