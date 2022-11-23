@@ -177,3 +177,4 @@ Coloco-me à disposição para o que for necessário
 | 15/11/22 21:23 	| 84B5504A    	| O Caminho Para a Certificação CTFL                                                            | 3 horas   	    |
 | 17/11/22 21:45 	| 96EA4A55    	| Introdução à Plataforma Java                                                                  | 1 hora   	      |
 | 19/11/22 20:52 	| 8B54D7E4    	| Ambiente de Desenvolvimento Java                                                              | 1 hora   	      |
+| 22/11/22 21:13 	| ACAB6B73    	| Aprendendo a Sintaxe Java                                                                     | 5 horas  	      |
