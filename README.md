@@ -180,4 +180,5 @@ Coloco-me à disposição para o que for necessário
 | 22/11/22 21:13 	| ACAB6B73    	| Aprendendo a Sintaxe Java                                                                     | 5 horas  	      |
 | 24/11/22 21:30 	| 83A6CE55    	| Testes Unitários Com Junit                                                                    | 3 horas  	      |
 | 28/11/22 21:09 	| CC43AB96    	| Desenvolvendo Testes Utilizando Mockito                                                       | 2 horas  	      |
-| 01/12/22 20:58 	| BBF7E22D    	| Fundamentos de Automação de Testes                                                            | 3 horas  	      |
+| 04/12/22 20:58 	| BBF7E22D    	| Fundamentos de Automação de Testes                                                            | 3 horas  	      |
+| 05/12/22 21:12 	| 7BB12931    	| Testes de API: Dos Manuais aos Automatizados                                                  | 4 horas  	      |
