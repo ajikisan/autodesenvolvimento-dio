@@ -182,3 +182,4 @@ Coloco-me à disposição para o que for necessário
 | 28/11/22 21:09 	| CC43AB96    	| Desenvolvendo Testes Utilizando Mockito                                                       | 2 horas  	      |
 | 04/12/22 20:58 	| BBF7E22D    	| Fundamentos de Automação de Testes                                                            | 3 horas  	      |
 | 05/12/22 21:12 	| 7BB12931    	| Testes de API: Dos Manuais aos Automatizados                                                  | 4 horas  	      |
+| 08/12/22 21:47 	| 2F3B4B05    	| Automação de Testes com Selenium WebDriver e Java                                             | 4 horas  	      |
