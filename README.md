@@ -186,4 +186,5 @@ Coloco-me à disposição para o que for necessário
 | 15/12/22 21:21 	| 29753510    	| Dominando Algoritmos Intermediários com Desafios de Código Java                               | 5 horas  	      |
 | 27/12/22 14:18 	| 069682A9    	| O dia a dia de um QA A prática de testes manuais funcionais                                   | 3 horas  	      |
 | 30/12/22 00:02 	| D223492E    	| Explorando o Rest Assured para a Automação de Testes de API                                   | 2 horas  	      |
-| 30/12/22 00:05 	| 1C3F49E0    	| GFT Quality Assurance Para Mulheres                                                           | 103 horas  	      |
+| 30/12/22 00:05 	| 1C3F49E0    	| GFT Quality Assurance Para Mulheres                                                           | 103 horas  	    |
+| 15/02/23 14:50 	| B0034E7B    	| Trabalhando em Equipes Ágeis                                                                  | 3 horas  	      |
