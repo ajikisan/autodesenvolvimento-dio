@@ -188,4 +188,5 @@ Coloco-me à disposição para o que for necessário
 | 30/12/22 00:02 	| D223492E    	| Explorando o Rest Assured para a Automação de Testes de API                                   | 2 horas  	      |
 | 30/12/22 00:05 	| 1C3F49E0    	| GFT Quality Assurance Para Mulheres                                                           | 103 horas  	    |
 | 15/02/23 14:50 	| B0034E7B    	| Trabalhando em Equipes Ágeis                                                                  | 3 horas  	      |
-| 15/02/23 14:50 	| 8965CA8E    	| Linux do Zero Aula Inaugural                                                                  | 2 horas  	      |
+| 15/02/23 15:50 	| 8965CA8E    	| Linux do Zero Aula Inaugural                                                                  | 2 horas  	      |
+| 15/02/23 16:20 	| 31B10E4B    	| Introdução ao Sistema Operacional Linux                                                       | 1 hora  	      |
