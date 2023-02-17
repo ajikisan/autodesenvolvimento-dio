@@ -190,3 +190,6 @@ Coloco-me à disposição para o que for necessário
 | 15/02/23 14:50 	| B0034E7B    	| Trabalhando em Equipes Ágeis                                                                  | 3 horas  	      |
 | 15/02/23 15:50 	| 8965CA8E    	| Linux do Zero Aula Inaugural                                                                  | 2 horas  	      |
 | 15/02/23 16:20 	| 31B10E4B    	| Introdução ao Sistema Operacional Linux                                                       | 1 hora  	      |
+| 17/02/23 13:45 	| 12428C54    	| Instalando o Linux                                                                            | 1 hora  	      |
+| 17/02/23 14:45 	| 313C7BB6    	| Acesso Remoto a Máquinas Linux                                                                | 1 hora  	      |
+| 17/02/23 17:20 	| B79E5A3F    	| Manipulando Arquivos no Linux                                                                 | 3 horas 	      |
