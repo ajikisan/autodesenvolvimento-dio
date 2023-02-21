@@ -194,3 +194,7 @@ Coloco-me à disposição para o que for necessário
 | 17/02/23 14:45 	| 313C7BB6    	| Acesso Remoto a Máquinas Linux                                                                | 1 hora  	      |
 | 17/02/23 17:20 	| B79E5A3F    	| Manipulando Arquivos no Linux                                                                 | 3 horas 	      |
 | 18/02/23 22:45 	| 43CDC9A5    	| Gerenciando Usuários no Linux                                                                 | 2 horas 	      |
+| 21/02/23 09:21	| 6FC7E4CD    	| Gerenciamento de Pacotes Linux                                                                | 1 hora  	      |
+| 21/02/23 10:13	| 78A77426    	| Gerenciamento de Discos Linux                                                                 | 1 hora  	      |
+| 21/02/23 11:08	| 3AADFF6A    	| Copiando Arquivos e Manipulando Processos Linux                                               | 1 hora  	      |
+| 21/02/23 18:15	| C6FA1BF0    	| Infraestrutura como Código Script de Criação de Estrutura usuários, diretórios e permissões   | 1 hora  	      |
