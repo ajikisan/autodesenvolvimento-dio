@@ -198,3 +198,5 @@ Coloco-me à disposição para o que for necessário
 | 21/02/23 10:13	| 78A77426    	| Gerenciamento de Discos Linux                                                                 | 1 hora  	      |
 | 21/02/23 11:08	| 3AADFF6A    	| Copiando Arquivos e Manipulando Processos Linux                                               | 1 hora  	      |
 | 21/02/23 18:15	| C6FA1BF0    	| Infraestrutura como Código Script de Criação de Estrutura usuários, diretórios e permissões   | 1 hora  	      |
+| 22/02/23 21:00	| BDE79478    	| Servidores de Arquivos com Linux                                                              | 1 hora  	      |
+| 22/02/23 22:00	| BDE79478    	| Criando um Servidor Web com Linux                                                             | 1 hora  	      |
