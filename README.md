@@ -200,3 +200,5 @@ Coloco-me à disposição para o que for necessário
 | 21/02/23 18:15	| C6FA1BF0    	| Infraestrutura como Código Script de Criação de Estrutura usuários, diretórios e permissões   | 1 hora  	      |
 | 22/02/23 21:00	| BDE79478    	| Servidores de Arquivos com Linux                                                              | 1 hora  	      |
 | 22/02/23 22:00	| BDE79478    	| Criando um Servidor Web com Linux                                                             | 1 hora  	      |
+| 27/02/23 20:11	| EE4E94C6    	| Servidor de Banco de Dados com Linux                                                          | 1 hora  	      |
+| 27/02/23 21:39	| 1D1F1DCD    	| Infraestrutura como Código: Script de Provisionamento de um Servidor Web Apache               | 1 hora  	      |
