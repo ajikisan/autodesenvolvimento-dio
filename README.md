@@ -202,3 +202,4 @@ Coloco-me à disposição para o que for necessário
 | 22/02/23 22:00	| BDE79478    	| Criando um Servidor Web com Linux                                                             | 1 hora  	      |
 | 27/02/23 20:11	| EE4E94C6    	| Servidor de Banco de Dados com Linux                                                          | 1 hora  	      |
 | 27/02/23 21:39	| 1D1F1DCD    	| Infraestrutura como Código: Script de Provisionamento de um Servidor Web Apache               | 1 hora  	      |
+| 02/03/23 21:43	| F1FCF827    	| Docker Utilização Prática no Cenário de Microsserviços                                        | 2 horas  	      |
