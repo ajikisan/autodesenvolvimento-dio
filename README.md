@@ -203,3 +203,9 @@ Coloco-me à disposição para o que for necessário
 | 27/02/23 20:11	| EE4E94C6    	| Servidor de Banco de Dados com Linux                                                          | 1 hora  	      |
 | 27/02/23 21:39	| 1D1F1DCD    	| Infraestrutura como Código: Script de Provisionamento de um Servidor Web Apache               | 1 hora  	      |
 | 02/03/23 21:43	| F1FCF827    	| Docker Utilização Prática no Cenário de Microsserviços                                        | 2 horas  	      |
+| 03/03/23 16:47	| 7A79C038    	| Deixando Seu LinkedIn Atrativo                                                                | 2 horas  	      |
+| 03/03/23 20:14	| 6DC88179    	| Turbine seu Currículo da DIO                                                                  | 1 hora  	      |
+| 03/03/23 20:55	| 6AA51B29    	| Transformando seu Conhecimento em Artigos Técnicos                                            | 1 hora  	      |
+| 03/03/23 21:34	| D1FE6CB4    	| Se Preparando Para Uma Entrevista                                                             | 1 hora  	      |
+| 03/03/23 22:05	| A5DF3F16    	| Linux do Zero                                                                                 | 44 horas 	      |
+
