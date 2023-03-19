@@ -208,4 +208,5 @@ Coloco-me à disposição para o que for necessário
 | 03/03/23 20:55	| 6AA51B29    	| Transformando seu Conhecimento em Artigos Técnicos                                            | 1 hora  	      |
 | 03/03/23 21:34	| D1FE6CB4    	| Se Preparando Para Uma Entrevista                                                             | 1 hora  	      |
 | 03/03/23 22:05	| A5DF3F16    	| Linux do Zero                                                                                 | 44 horas 	      |
+| 19/03/23 12:53	| 002744B8    	| Segurança da informação com Python                                                            | 5 horas 	      |
 
