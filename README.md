@@ -209,4 +209,34 @@ Coloco-me à disposição para o que for necessário
 | 03/03/23 21:34	| D1FE6CB4    	| Se Preparando Para Uma Entrevista                                                             | 1 hora  	      |
 | 03/03/23 22:05	| A5DF3F16    	| Linux do Zero                                                                                 | 44 horas 	      |
 | 19/03/23 12:53	| 002744B8    	| Segurança da informação com Python                                                            | 5 horas 	      |
+| 20/01/2026    	| SPU4KF63    	| Boas-vindas ao Bradesco – GenAI & Dados                                                       | 1 hora 	        |
+| 20/01/2026    	| VCPPHJTU    	| Introdução à Inteligência Artificial                                                          | 1 hora 	        |
+| 21/01/2026    	| W81TPLGQ    	| Fundamentos de Modelos de Linguagem de Grande Escala                                          | 1 hora 	        |
+| 24/01/2026    	| 0DWL3YRQ    	| Introdução à Engenharia de Prompts                                                            | 1 hora 	        |
+| 27/01/2026    	| CMZHZUMS    	| Técnicas de Engenharia de Prompt                                                              | 2 horas	        |
+| 31/01/2026    	| NRZIN1A5    	| Aplicações Práticas da Inteligência Artificial                                                | 2 horas	        |
+| 31/01/2026    	| IBOZGST4    	| Desafios de Projetos Crie uma Portfólio vencedor                                              | 1 hora	        |
+| 06/02/2026    	|              	| Live de Lançamento Bradesco - GenAi & Dados                                                   | 1 hora	        |
+| 06/02/2026    	| R0FTIG1A    	| Acelere sua Aprendizagem com IA Explore o Poder do NotebookLM                                 | 4 horas	        |
+| 07/02/2026    	| TJCSGIXQ    	| Introdução ao Excel 365                                                                       | 2 horas	        |
+| 08/02/2026    	| JZMQ6W8Q    	| Trabalhando com Microsoft Pilot                                                               | 1 hora	        |
+| 08/02/2026    	| FUDKSP3S    	| Introdução a Banco de Dados Relacionais                                                       | 3 horas	        |
+| 08/02/2026    	| FRXZFBFU    	| Utilizando Microsoft Copilot para escrever consultas SQL                                      | 2 horas	        |
+| 11/02/2026    	| USZMX8JB    	| Fundamentos de Business Intelligence BI                                                       | 2 horas	        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
