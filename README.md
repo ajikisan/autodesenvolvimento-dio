@@ -223,6 +223,14 @@ Coloco-me à disposição para o que for necessário
 | 08/02/2026    	| FUDKSP3S    	| Introdução a Banco de Dados Relacionais                                                       | 3 horas	        |
 | 08/02/2026    	| FRXZFBFU    	| Utilizando Microsoft Copilot para escrever consultas SQL                                      | 2 horas	        |
 | 11/02/2026    	| USZMX8JB    	| Fundamentos de Business Intelligence BI                                                       | 2 horas	        |
+| 13/02/2026    	| DUPQ7L0P    	| Criando um Processo de ETL com Excel e Power Query                                            | 1 hora 	        |
+| 15/02/2026    	| ZJ6WH2AG    	| Desafios de Código Aperfeiçoe Sua Lógica e Pensamento Computacional                           | 1 hora 	        |
+| 16/02/2026    	| B5MIS0XH    	| Algoritmos e Aprendizado de Máquina                                                           | 1 hora 	        |
+| 17/02/2026    	| SAFOOGXV    	| Processamento de Linguagem Natural                                                            | 1 hora 	        |
+| 23/02/2026    	| QW28YNT8    	| Visão Computacional                                                                           | 1 hora 	        |
+| 23/02/2026    	| KD3M9API    	| O que são IAS Generativas                                                                     | 1 hora 	        |
+| 28/02/2026    	| UC56I19K    	| Conversando por Voz com  o ChatGPT utilizando Whisper OpenAI e Python                         | 1 hora 	        |
+
 
 
 
